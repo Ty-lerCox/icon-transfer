@@ -7,7 +7,7 @@ import { SeoService } from "./seo.service";
   styleUrls: ["./app.component.css"]
 })
 export class AppComponent implements OnInit {
-  title = "Icon Concrete";
+  title = "Icon Transfer";
 
   constructor(private seoService: SeoService) {}
 
